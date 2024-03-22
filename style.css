@@ -15,9 +15,6 @@ h1{
   text-align: center;
 }
 
-margin: 25px;
-}
-
 a{
   color: #d62828;
   }
@@ -85,6 +82,11 @@ p {
 
 /* The div container constrains the content width within the main container to 600px */
 div {
+  margin: auto;
+  width: 600px;
+}
+
+article {
   margin: auto;
   width: 600px;
 }
